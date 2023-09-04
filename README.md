@@ -1,3 +1,3 @@
 # pytorch-docker
-Reference<br>
-https://hub.docker.com/r/pytorch/pytorch
+- Use Asia/Bangkok Time Zone.
+- Support Thai Locale, Can switch between English / Thai by using Alt-Shift.
